@@ -22,7 +22,6 @@ from haruka.modules.connection import connected
 
 PM_START = """Hello {}, my name is {}!
 
-Translated from si to en.
  Ho ... Ho .... I'm the Griffindo resident ghost 👻 ..
  
  The Griffindos [❤](https://telegra.ph/file/ba3c84393f9fb34f41ea1.jpg) are the lions .. The lion cubs ..
@@ -31,7 +30,6 @@ Translated from si to en.
  
  Welcome Lions to the Lions🇱🇰 !!!!
  
- click /help to get my function 🤗
 """
 
 
